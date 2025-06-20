@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchita</h1>
 <h3 align="center">A aspiring frontend developer,ui/uxdesigner from India</h3>
-<img align="right" alt="pic" width="400" src="![image](https://github.com/user-attachments/assets/088a998e-72e4-4d99-b421-920ebb914c72)">
+<img align="right" alt="pic" width="400" src=![image](https://github.com/user-attachments/assets/632edc14-904a-4ed5-aee3-afd0cf2861dd)>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ruchitak08&label=Profile%20views&color=0e75b6&style=flat" alt="ruchitak08" /> </p>
