@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchita</h1>
 <h3 align="center">A aspiring frontend developer,ui/uxdesigner from India</h3>
-<img align="right" alt="pic" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fpixel-life%2F951137190800%2F&psig=AOvVaw3RKBxUfJxBtLTnz_jnQPFT&ust=1750487928472000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDXm-Ox_40DFQAAAAAdAAAAABAW">
+<img align="right" alt="pic" width="400" src=https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchitak08&label=Profile%20views&color=0e75b6&style=flat" alt="ruchitak08" /> </p>
 
 - 📫 How to reach me **crimsonheart088@gmail.com**
