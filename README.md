@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchita</h1>
 <h3 align="center">A aspiring frontend developer,ui/uxdesigner from India</h3>
-<img align="right" alt="pic" width="400" src=![image](https://github.com/user-attachments/assets/7c555fa0-61e3-41d4-bb9b-b16a69d912d4)>
 
 
 <p align="left">
