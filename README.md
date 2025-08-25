@@ -1,5 +1,6 @@
-<h3 align="center">Frontend + AI Explorer | Turning Ideas into Prototypes</h3>
-
+<h2 align="center"> Hey there! Myself Ruchita Kangralkar</h2>
+<h3 align="center"> Frontend developer and designer,| Turning Ideas into Prototypes /h3>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchitak08&label=Profile%20views&color=0e75b6&style=flat" alt="ruchitak08" /> </p>
 
 - 📫 How to reach me **ruchitask06@gmail.com**
