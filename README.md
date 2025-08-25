@@ -1,6 +1,8 @@
 <h2 align="center"> Hey there! Myself Ruchita Kangralkar</h2>
 <h3 align="center"> Frontend developer and designer| Turning Ideas into Prototypes </h3>
-![Image](https://github.com/user-attachments/assets/5e22838b-8b71-4072-b54d-d38a45fa7457)
+
+
+![Image](https://github.com/user-attachments/assets/4e3bd6a9-2c73-4b5c-a09c-d0f326e0f1f7)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchitak08&label=Profile%20views&color=0e75b6&style=flat" alt="ruchitak08" /> </p>
 
